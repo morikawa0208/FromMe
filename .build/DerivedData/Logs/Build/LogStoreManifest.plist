@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>58D310D8-9BCF-43E3-BE24-8EE12FEA4104</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>58D310D8-9BCF-43E3-BE24-8EE12FEA4104.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FromMe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FromMe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project FromMe with scheme FromMe and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>792031029.86343706</real>
+			<key>timeStoppedRecording</key>
+			<real>792031054.11706901</real>
+			<key>title</key>
+			<string>Building project FromMe with scheme FromMe and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>58D310D8-9BCF-43E3-BE24-8EE12FEA4104</string>
+		</dict>
+		<key>8820AD6E-CBC5-4395-946C-0BDBECD820DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8820AD6E-CBC5-4395-946C-0BDBECD820DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FromMe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FromMe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project FromMe with scheme FromMe and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>792033898.39974701</real>
+			<key>timeStoppedRecording</key>
+			<real>792033905.38254702</real>
+			<key>title</key>
+			<string>Building project FromMe with scheme FromMe and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8820AD6E-CBC5-4395-946C-0BDBECD820DF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

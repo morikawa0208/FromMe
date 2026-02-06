@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/master.swiftdeps"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/AddMemoView.swift": {
+    "dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/AddMemoView.d",
+    "object": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/AddMemoView.swift.o",
+    "swiftmodule": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/AddMemoView~partial.swiftmodule",
+    "swift-dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/AddMemoView.swiftdeps"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/FromMeApp.swift": {
+    "dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/FromMeApp.d",
+    "object": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/FromMeApp.swift.o",
+    "swiftmodule": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/FromMeApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/FromMeApp.swiftdeps"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/HomeView.swift": {
+    "dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/HomeView.d",
+    "object": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/HomeView.swift.o",
+    "swiftmodule": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/HomeView~partial.swiftmodule",
+    "swift-dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/HomeView.swiftdeps"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/ImageSupport.swift": {
+    "dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/ImageSupport.d",
+    "object": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/ImageSupport.swift.o",
+    "swiftmodule": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/ImageSupport~partial.swiftmodule",
+    "swift-dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/ImageSupport.swiftdeps"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/Memo.swift": {
+    "dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/Memo.d",
+    "object": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/Memo.swift.o",
+    "swiftmodule": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/Memo~partial.swiftmodule",
+    "swift-dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/Memo.swiftdeps"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoDetailView.swift": {
+    "dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoDetailView.d",
+    "object": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoDetailView.swift.o",
+    "swiftmodule": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoDetailView~partial.swiftmodule",
+    "swift-dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoDetailView.swiftdeps"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoListView.swift": {
+    "dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoListView.d",
+    "object": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoListView.swift.o",
+    "swiftmodule": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoListView~partial.swiftmodule",
+    "swift-dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoListView.swiftdeps"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoService.swift": {
+    "dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoService.d",
+    "object": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoService.swift.o",
+    "swiftmodule": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoService~partial.swiftmodule",
+    "swift-dependencies": "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoService.swiftdeps"
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.FromMeApp-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/sources",
+      "importPath" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/AddMemoView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/FromMeApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/HomeView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/ImageSupport.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/Memo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoDetailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoListView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "FromMeApp",
+      "moduleOutputPath" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/Modules/FromMeApp.swiftmodule",
+      "objects" : [
+        "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/AddMemoView.swift.o",
+        "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/FromMeApp.swift.o",
+        "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/HomeView.swift.o",
+        "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/ImageSupport.swift.o",
+        "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/Memo.swift.o",
+        "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoDetailView.swift.o",
+        "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoListView.swift.o",
+        "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoService.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "FromMeApp_main",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "fromme"
+      ],
+      "outputFileMapPath" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/AddMemoView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/FromMeApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/HomeView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/ImageSupport.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/Memo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoDetailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoListView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/Modules/FromMeApp.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/AddMemoView.swift",
+        "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/FromMeApp.swift",
+        "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/HomeView.swift",
+        "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/ImageSupport.swift",
+        "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/Memo.swift",
+        "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoDetailView.swift",
+        "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoListView.swift",
+        "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoService.swift"
+      ],
+      "tempsPath" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "FromMeApp" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "FromMeApp",
+      "-package-name",
+      "fromme",
+      "-incremental",
+      "-c",
+      "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/AddMemoView.swift",
+      "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/FromMeApp.swift",
+      "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/HomeView.swift",
+      "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/ImageSupport.swift",
+      "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/Memo.swift",
+      "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoDetailView.swift",
+      "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoListView.swift",
+      "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoService.swift",
+      "-I",
+      "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "FromMeApp_main",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "fromme",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "FromMeApp" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "writeCommands" : {
+    "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp-entitlement.plist"
+    },
+    "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/AddMemoView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/FromMeApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/HomeView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/ImageSupport.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/Memo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoDetailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoListView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoService.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/sources"
+    },
+    "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/AddMemoView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/FromMeApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/HomeView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/ImageSupport.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/Memo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoDetailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoListView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.build/MemoService.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/FromMeApp.product/Objects.LinkFileList"
+    },
+    "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/morikawayuuki/Desktop/FromMe/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

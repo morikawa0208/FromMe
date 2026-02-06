@@ -1,0 +1,98 @@
+{
+  "" : {
+    "diagnostics" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/FromMe-master.dia",
+    "emit-module-dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/FromMe-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/FromMe-master-emit-module.dia",
+    "swift-dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/FromMe-master.swiftdeps"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/AddMemoView.swift" : {
+    "const-values" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/AddMemoView.swiftconstvalues",
+    "dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/AddMemoView.d",
+    "diagnostics" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/AddMemoView.dia",
+    "index-unit-output-path" : "/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/AddMemoView.o",
+    "llvm-bc" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/AddMemoView.bc",
+    "object" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/AddMemoView.o",
+    "swift-dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/AddMemoView.swiftdeps",
+    "swiftmodule" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/AddMemoView~partial.swiftmodule"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/FromMeApp.swift" : {
+    "const-values" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/FromMeApp.swiftconstvalues",
+    "dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/FromMeApp.d",
+    "diagnostics" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/FromMeApp.dia",
+    "index-unit-output-path" : "/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/FromMeApp.o",
+    "llvm-bc" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/FromMeApp.bc",
+    "object" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/FromMeApp.o",
+    "swift-dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/FromMeApp.swiftdeps",
+    "swiftmodule" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/FromMeApp~partial.swiftmodule"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/HomeView.swift" : {
+    "const-values" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/ImageSupport.swift" : {
+    "const-values" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/ImageSupport.swiftconstvalues",
+    "dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/ImageSupport.d",
+    "diagnostics" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/ImageSupport.dia",
+    "index-unit-output-path" : "/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/ImageSupport.o",
+    "llvm-bc" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/ImageSupport.bc",
+    "object" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/ImageSupport.o",
+    "swift-dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/ImageSupport.swiftdeps",
+    "swiftmodule" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/ImageSupport~partial.swiftmodule"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/Memo.swift" : {
+    "const-values" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/Memo.swiftconstvalues",
+    "dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/Memo.d",
+    "diagnostics" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/Memo.dia",
+    "index-unit-output-path" : "/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/Memo.o",
+    "llvm-bc" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/Memo.bc",
+    "object" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/Memo.o",
+    "swift-dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/Memo.swiftdeps",
+    "swiftmodule" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/Memo~partial.swiftmodule"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoDetailView.swift" : {
+    "const-values" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoDetailView.swiftconstvalues",
+    "dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoDetailView.d",
+    "diagnostics" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoDetailView.dia",
+    "index-unit-output-path" : "/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoDetailView.o",
+    "llvm-bc" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoDetailView.bc",
+    "object" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoDetailView.o",
+    "swift-dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoDetailView.swiftdeps",
+    "swiftmodule" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoDetailView~partial.swiftmodule"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoListView.swift" : {
+    "const-values" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoListView.swiftconstvalues",
+    "dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoListView.d",
+    "diagnostics" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoListView.dia",
+    "index-unit-output-path" : "/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoListView.o",
+    "llvm-bc" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoListView.bc",
+    "object" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoListView.o",
+    "swift-dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoListView.swiftdeps",
+    "swiftmodule" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoListView~partial.swiftmodule"
+  },
+  "/Users/morikawayuuki/Desktop/FromMe/Sources/FromMeApp/MemoService.swift" : {
+    "const-values" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoService.swiftconstvalues",
+    "dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoService.d",
+    "diagnostics" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoService.dia",
+    "index-unit-output-path" : "/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoService.o",
+    "llvm-bc" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoService.bc",
+    "object" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoService.o",
+    "swift-dependencies" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoService.swiftdeps",
+    "swiftmodule" : "/Users/morikawayuuki/Desktop/FromMe/.build/DerivedData/Build/Intermediates.noindex/FromMe.build/Debug-iphonesimulator/FromMe.build/Objects-normal/arm64/MemoService~partial.swiftmodule"
+  }
+}

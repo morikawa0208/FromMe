@@ -1,0 +1,281 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 60;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1A2B3C4D5E6F789001234590 /* Memo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2B3C4D5E6F789001234580 /* Memo.swift */; };
+		1A2B3C4D5E6F789001234591 /* MemoService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2B3C4D5E6F789001234581 /* MemoService.swift */; };
+		1A2B3C4D5E6F789001234592 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2B3C4D5E6F789001234582 /* HomeView.swift */; };
+		1A2B3C4D5E6F789001234593 /* AddMemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2B3C4D5E6F789001234583 /* AddMemoView.swift */; };
+		1A2B3C4D5E6F789001234594 /* MemoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2B3C4D5E6F789001234584 /* MemoListView.swift */; };
+		1A2B3C4D5E6F789001234595 /* MemoDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2B3C4D5E6F789001234585 /* MemoDetailView.swift */; };
+		1A2B3C4D5E6F789001234596 /* ImageSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2B3C4D5E6F789001234586 /* ImageSupport.swift */; };
+		1A2B3C4D5E6F789001234597 /* FromMeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2B3C4D5E6F789001234587 /* FromMeApp.swift */; };
+		1A2B3C4D5E6F789001234598 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A2B3C4D5E6F789001234571 /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1A2B3C4D5E6F789001234570 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A2B3C4D5E6F789001234571 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1A2B3C4D5E6F789001234572 /* FromMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; path = FromMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A2B3C4D5E6F789001234580 /* Memo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo.swift; sourceTree = "<group>"; };
+		1A2B3C4D5E6F789001234581 /* MemoService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoService.swift; sourceTree = "<group>"; };
+		1A2B3C4D5E6F789001234582 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		1A2B3C4D5E6F789001234583 /* AddMemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddMemoView.swift; sourceTree = "<group>"; };
+		1A2B3C4D5E6F789001234584 /* MemoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListView.swift; sourceTree = "<group>"; };
+		1A2B3C4D5E6F789001234585 /* MemoDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoDetailView.swift; sourceTree = "<group>"; };
+		1A2B3C4D5E6F789001234586 /* ImageSupport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSupport.swift; sourceTree = "<group>"; };
+		1A2B3C4D5E6F789001234587 /* FromMeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FromMeApp.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1A2B3C4D5E6F78900123456A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1A2B3C4D5E6F78900123456C = {
+			isa = PBXGroup;
+			children = (
+				1A2B3C4D5E6F78900123456E /* Sources */,
+				1A2B3C4D5E6F78900123456F /* FromMe */,
+				1A2B3C4D5E6F78900123456D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1A2B3C4D5E6F78900123456D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1A2B3C4D5E6F789001234572 /* FromMe.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1A2B3C4D5E6F78900123456E /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				1A2B3C4D5E6F789001234587 /* FromMeApp.swift */,
+				1A2B3C4D5E6F789001234582 /* HomeView.swift */,
+				1A2B3C4D5E6F789001234583 /* AddMemoView.swift */,
+				1A2B3C4D5E6F789001234584 /* MemoListView.swift */,
+				1A2B3C4D5E6F789001234585 /* MemoDetailView.swift */,
+				1A2B3C4D5E6F789001234586 /* ImageSupport.swift */,
+				1A2B3C4D5E6F789001234580 /* Memo.swift */,
+				1A2B3C4D5E6F789001234581 /* MemoService.swift */,
+			);
+			name = Sources;
+			path = Sources/FromMeApp;
+			sourceTree = "<group>";
+		};
+		1A2B3C4D5E6F78900123456F /* FromMe */ = {
+			isa = PBXGroup;
+			children = (
+				1A2B3C4D5E6F789001234571 /* Assets.xcassets */,
+				1A2B3C4D5E6F789001234570 /* Info.plist */,
+			);
+			path = FromMe;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1A2B3C4D5E6F789001234568 /* FromMe */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1A2B3C4D5E6F789001234574 /* Build configuration list for PBXNativeTarget "FromMe" */;
+			buildPhases = (
+				1A2B3C4D5E6F789001234569 /* Sources */,
+				1A2B3C4D5E6F78900123456B /* Resources */,
+				1A2B3C4D5E6F78900123456A /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FromMe;
+			productName = FromMe;
+			productReference = 1A2B3C4D5E6F789001234572 /* FromMe.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1A2B3C4D5E6F789001234567 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					1A2B3C4D5E6F789001234568 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+				};
+			};
+			buildConfigurationList = 1A2B3C4D5E6F789001234573 /* Build configuration list for PBXProject "FromMe" */;
+			compatibilityVersion = "Xcode 15.0";
+			developmentRegion = ja;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				ja,
+				Base,
+			);
+			mainGroup = 1A2B3C4D5E6F78900123456C;
+			productRefGroup = 1A2B3C4D5E6F78900123456D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1A2B3C4D5E6F789001234568 /* FromMe */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1A2B3C4D5E6F78900123456B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A2B3C4D5E6F789001234598 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1A2B3C4D5E6F789001234569 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A2B3C4D5E6F789001234597 /* FromMeApp.swift in Sources */,
+				1A2B3C4D5E6F789001234592 /* HomeView.swift in Sources */,
+				1A2B3C4D5E6F789001234593 /* AddMemoView.swift in Sources */,
+				1A2B3C4D5E6F789001234594 /* MemoListView.swift in Sources */,
+				1A2B3C4D5E6F789001234595 /* MemoDetailView.swift in Sources */,
+				1A2B3C4D5E6F789001234596 /* ImageSupport.swift in Sources */,
+				1A2B3C4D5E6F789001234590 /* Memo.swift in Sources */,
+				1A2B3C4D5E6F789001234591 /* MemoService.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1A2B3C4D5E6F789001234575 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		1A2B3C4D5E6F789001234576 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		1A2B3C4D5E6F789001234577 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VD87M3FZPX;
+				INFOPLIST_FILE = FromMe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.morikawa.FromMe;
+				PRODUCT_NAME = FromMe;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		1A2B3C4D5E6F789001234578 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VD87M3FZPX;
+				INFOPLIST_FILE = FromMe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.morikawa.FromMe;
+				PRODUCT_NAME = FromMe;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1A2B3C4D5E6F789001234573 /* Build configuration list for PBXProject "FromMe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A2B3C4D5E6F789001234575 /* Debug */,
+				1A2B3C4D5E6F789001234576 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		1A2B3C4D5E6F789001234574 /* Build configuration list for PBXNativeTarget "FromMe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A2B3C4D5E6F789001234577 /* Debug */,
+				1A2B3C4D5E6F789001234578 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1A2B3C4D5E6F789001234567 /* Project object */;
+}
